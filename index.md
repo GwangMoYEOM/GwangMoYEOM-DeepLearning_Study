@@ -14,10 +14,7 @@ I learn Mechanical and Automotive Engineering in HALLA Univ.
 Since September 2022, I am interested in Machine Learning and hosting Python Code of Study on GitHub Pages.
 {: .fs-6 .fw-300 }
 
-// code
-Link: [Google][googlelink]
-
-[googlelink]: file:///C:/Users/duarh/CH4.html "CH4"
+>  - [파이썬톺아보기1(Reviewing Python1)](CH4.html)
 
 [View it on GitHub](https://github.com/GwangMoYEOM/GwangMoYEOM-DeepLearning_Study){: .btn .fs-5 .mb-4 .mb-md-0 }
 
